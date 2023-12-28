@@ -569,14 +569,14 @@ footer {
   }
   #input-email {
     margin-right: 0;
-    padding: 1.4rem 18rem 1.3rem 1.4rem;
+    padding: 1.4rem 15rem 1.3rem 1.4rem;
   }
   #membership {
     width: 75vw;
     font-size: 1.9rem;
   }
   .start {
-    padding: 0.5rem 0.1rem 0.5rem 0.1rem;
+    padding: 1.5rem 15rem 1.3rem 1.5rem;
     font-size: 1.5rem;
     width: 50%;
   }
