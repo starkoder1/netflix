@@ -501,7 +501,7 @@ footer {
     font-size: 1.3rem;
   }
   .third video {
-    left: 17% !important;
+    left: 18% !important;
   }
 }
 @media only screen and (max-width: 660px) {
@@ -576,9 +576,12 @@ footer {
     font-size: 1.9rem;
   }
   .start {
-    padding: 0.7rem;;
-    font-size: 1.5rem;
-    width: 50%;
+    padding: 0.5rem 0.1rem 0.5rem 0.1rem;
+    font-size: 2rem;
+    width: 55%;
+  }
+  .red-txt{
+    margin-right: 0;
   }
   .download-box img {
     max-width: 15%;
